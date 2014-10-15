@@ -7,3 +7,5 @@ The Projects
 ------------
 
  * ***cmdline-parser:*** A small java app that's the base for a command line utility. It's pom.xml references commons-cli for parsing the command line, and maven-assembly-plugin to package everything into a single runnable jar.
+
+ * ***get-hotels.py:*** Python script for scraping Expedia and retrieving hotel information.
